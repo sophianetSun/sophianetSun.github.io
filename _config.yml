@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   이것은 개발자가 되기 위한 공부를 기록하는 블로그입니다.
   머신러닝, 딥러닝, 자연어처리, 컴퓨터비전, 웹개발, 알고리즘 등을 공부하고 있습니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sophianetsun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: weloju
 github_username:  sophianetSun
 
